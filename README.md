@@ -8,7 +8,7 @@ I'm a Computer Science student with a passion for building full-stack applicatio
 
 ## 🚀 Notable Projects
 
-### [Pilot][(https://github.com/MichaelPotishman/pilot)](https://github.com/mpotishman/Pilot---TV-Show-Rating-Website) — TV Tracking Web App
+### [Pilot][(https://github.com/MichaelPotishman/pilot)](https://github.com/mpotishman/Pilot---TV-Show-Rating-Website)] — TV Tracking Web App
 *Technologies: Next.js App Router, React, SQLite, Lucia Auth, Tailwind CSS, TMDB API*
 
 - Built a full-stack TV tracking app where users can browse trending shows, rate individual episodes, manage a watchlist, and view personal stats on a profile page.
@@ -19,7 +19,7 @@ I'm a Computer Science student with a passion for building full-stack applicatio
 
 ---
 
-### [Tennis Predictor][(https://github.com/MichaelPotishman/tennis-predictor)](https://github.com/mpotishman/Tennis-Prediction) — ML Tournament Simulator
+### [Tennis Predictor][(https://github.com/MichaelPotishman/tennis-predictor)](https://github.com/mpotishman/Tennis-Prediction)] — ML Tournament Simulator
 *Technologies: Python, XGBoost, scikit-learn, pandas, Next.js, Tailwind CSS*
 
 - Built a machine learning pipeline that trains on historical ATP match data to predict tennis match outcomes, achieving strong test accuracy on the 2026 Australian Open.
