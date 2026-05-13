@@ -6,12 +6,6 @@ I'm a Computer Science student with a passion for building full-stack applicatio
 
 ---
 
-## 📊 GitHub Stats
-
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelPotishman&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
----
-
 ## 🚀 Notable Projects
 
 ### [Pilot](https://github.com/MichaelPotishman/pilot) — TV Tracking Web App
