@@ -9,6 +9,12 @@ I'm a Computer Science student with a passion for building full-stack applicatio
 ## 🚀 Notable Projects
 
 ### [Pilot](https://github.com/mpotishman/Pilot---TV-Show-Rating-Website) — TV Tracking Web App
+<p align="center">
+  <img width="420" alt="Home Page 
+" src="https://github.com/user-attachments/assets/8f1d5b09-cd38-429c-860c-5e103161e5ab" />
+  <img width="420" alt="Simulate Matchup" src="https://github.com/user-attachments/assets/bbf0867c-954c-4a35-9dde-c89022a506a6" />
+</p>
+
 *Technologies: Next.js App Router, React, SQLite, Lucia Auth, Tailwind CSS, TMDB API*
 
 - Built a full-stack TV tracking app where users can browse trending shows, rate individual episodes, manage a watchlist, and view personal stats on a profile page.
