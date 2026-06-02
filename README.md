@@ -1,4 +1,4 @@
-<img width="1317" height="940" alt="image" src="https://github.com/user-attachments/assets/22cd454b-3612-4cad-be70-772179c36092" /># Hi, I'm Michael Potishman 👋
+# Hi, I'm Michael Potishman 👋
 
 I'm a Computer Science student with a passion for building full-stack applications and machine learning systems. Currently on placement at **PwC**, working in the Product Service Support team where I design and build automation tools in Python to eliminate manual workflows.
 
@@ -21,7 +21,10 @@ I'm a Computer Science student with a passion for building full-stack applicatio
 
 ### [Tennis Predictor](https://github.com/mpotishman/Tennis-Prediction) — ML Tournament Simulator
 
-<img width="1317" height="940" alt="image" src="https://github.com/user-attachments/assets/e6cadb51-86f9-4d66-b225-e9051b6e6be0" />
+<p align="center">
+  <img width="45%" alt="Simulate Tournament" src="https://github.com/user-attachments/assets/e6cadb51-86f9-4d66-b225-e9051b6e6be0" />
+  <img width="45%" alt="Simulate Matchup" src="SECOND_IMAGE_URL_HERE" />
+</p>
 
 *Technologies: Python, XGBoost, scikit-learn, pandas, Next.js, Tailwind CSS*
 
