@@ -23,7 +23,9 @@ I'm a Computer Science student with a passion for building full-stack applicatio
 
 <p align="center">
   <img width="45%" alt="Simulate Tournament" src="https://github.com/user-attachments/assets/e6cadb51-86f9-4d66-b225-e9051b6e6be0" />
-  <img width="45%" alt="Simulate Matchup" src="SECOND_IMAGE_URL_HERE" />
+  <img width="45%" alt="Simulate Matchup" src="https://github.com/user-attachments/assets/baa373a7-51d8-4fa9-9d23-fb799809f561" />
+  
+  />
 </p>
 
 *Technologies: Python, XGBoost, scikit-learn, pandas, Next.js, Tailwind CSS*
