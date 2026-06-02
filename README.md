@@ -22,10 +22,9 @@ I'm a Computer Science student with a passion for building full-stack applicatio
 ### [Tennis Predictor](https://github.com/mpotishman/Tennis-Prediction) — ML Tournament Simulator
 
 <p align="center">
-  <img width="45%" alt="Simulate Tournament" src="https://github.com/user-attachments/assets/e6cadb51-86f9-4d66-b225-e9051b6e6be0" />
-  <img width="45%" alt="Simulate Matchup" src="https://github.com/user-attachments/assets/baa373a7-51d8-4fa9-9d23-fb799809f561" />
-  
-  />
+  <img width="420" height="300"  alt="Simulate Tournament" src="https://github.com/user-attachments/assets/e6cadb51-86f9-4d66-b225-e9051b6e6be0" />
+  <img width="420" height="300"  alt="Simulate Matchup" src="https://github.com/user-attachments/assets/1892cf00-e895-415d-996d-edc479a32b26" />
+ />
 </p>
 
 *Technologies: Python, XGBoost, scikit-learn, pandas, Next.js, Tailwind CSS*
