@@ -42,6 +42,19 @@ I'm a Computer Science student with a passion for building full-stack applicatio
 
 ---
 
+Football Analyser — Automated Broadcast Match Analysis
+
+<img width="1708" height="984" alt="image" src="https://github.com/user-attachments/assets/f9cd29fa-98fd-4163-87f6-27864da265dd" />
+
+
+Technologies: Python, PyTorch, Ultralytics YOLO, BoT-SORT, OpenCV, PARSeq, scikit-learn
+
+Built a computer vision pipeline that takes raw football broadcast footage and produces annotated video showing each player's team colour, tracking ID, and shirt number (if available).
+Trained a custom YOLO model to detect players, goalkeepers, referees, and the ball, then used BoT-SORT with ReID to hold a consistent ID on each player across frames.
+Wrote a two-pass team assigner that learns both kit colours with KMeans on HSV torso pixels, then picks each player's team using per-frame voting that ignores frames where players overlap too heavily, with a smoothing window to stop the team flickering between the two.
+Added a filtering stage that uses how much green pitch is on screen and how many players are visible to keep only the main camera angle and drop replays, crowd shots, and adverts before the slow processing runs.
+Read shirt numbers with a fine-tuned PARSeq text model, throwing out blurry or tiny crops first and then voting across several frames so a player ends up with one number, or None if it was never readable.
+
 ## 🛠 Tech Stack
 
 **Languages:** Python · JavaScript · SQL  
