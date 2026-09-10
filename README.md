@@ -25,7 +25,7 @@ I'm a Computer Science student with a passion for building full-stack applicatio
 
 ---
 
-Football Analyser — Automated Broadcast Match Analysis
+### [Football Analyser](https://github.com/mpotishman/Football-Analyser) — Automated Broadcast Match Analysis
 
 <img width="1708" height="984" alt="image" src="https://github.com/user-attachments/assets/f9cd29fa-98fd-4163-87f6-27864da265dd" />
 
