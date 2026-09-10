@@ -8,23 +8,6 @@ I'm a Computer Science student with a passion for building full-stack applicatio
 
 ## 🚀 Notable Projects
 
-### [Pilot](https://github.com/mpotishman/Pilot---TV-Show-Rating-Website) — TV Tracking Web App
-<p align="center">
-  <img width="420" alt="Home Page 
-" src="https://github.com/user-attachments/assets/8f1d5b09-cd38-429c-860c-5e103161e5ab" />
-  <img width="420" alt="Simulate Matchup" src="https://github.com/user-attachments/assets/bbf0867c-954c-4a35-9dde-c89022a506a6" />
-</p>
-
-*Technologies: Next.js App Router, React, SQLite, Lucia Auth, Tailwind CSS, TMDB API*
-
-- Built a full-stack TV tracking app where users can browse trending shows, rate individual episodes, manage a watchlist, and view personal stats on a profile page.
-- Implemented a complete authentication system from scratch using **Lucia Auth** with secure session cookies and password hashing.
-- Designed a relational SQLite schema with foreign keys, indexes, and transactional writes to maintain episode ratings, stats, and activity feeds.
-- Integrated the **TMDB API** with Next.js ISR caching for efficient data fetching across show pages, episode details, cast, and similar shows.
-- Built live search with a debounced dropdown and a dedicated results page using server components.
-
----
-
 ### [Tennis Predictor](https://github.com/mpotishman/Tennis-Prediction) — ML Tournament Simulator
 
 <p align="center">
@@ -54,6 +37,25 @@ Technologies: Python, PyTorch, Ultralytics YOLO, BoT-SORT, OpenCV, PARSeq, sciki
 - Wrote a two-pass team assigner that learns both kit colours with KMeans on HSV torso pixels, then picks each player's team using per-frame voting that ignores frames where players overlap too heavily, with a smoothing window to stop the team flickering between the two.
 - Added a filtering stage that uses how much green pitch is on screen and how many players are visible to keep only the main camera angle and drop replays, crowd shots, and adverts before the slow processing runs.
 - Read shirt numbers with a fine-tuned PARSeq text model, throwing out blurry or tiny crops first and then voting across several frames so a player ends up with one number, or None if it was never readable.
+
+---
+
+### [Pilot](https://github.com/mpotishman/Pilot---TV-Show-Rating-Website) — TV Tracking Web App
+<p align="center">
+  <img width="420" alt="Home Page 
+" src="https://github.com/user-attachments/assets/8f1d5b09-cd38-429c-860c-5e103161e5ab" />
+  <img width="420" alt="Simulate Matchup" src="https://github.com/user-attachments/assets/bbf0867c-954c-4a35-9dde-c89022a506a6" />
+</p>
+
+*Technologies: Next.js App Router, React, SQLite, Lucia Auth, Tailwind CSS, TMDB API*
+
+- Built a full-stack TV tracking app where users can browse trending shows, rate individual episodes, manage a watchlist, and view personal stats on a profile page.
+- Implemented a complete authentication system from scratch using **Lucia Auth** with secure session cookies and password hashing.
+- Designed a relational SQLite schema with foreign keys, indexes, and transactional writes to maintain episode ratings, stats, and activity feeds.
+- Integrated the **TMDB API** with Next.js ISR caching for efficient data fetching across show pages, episode details, cast, and similar shows.
+- Built live search with a debounced dropdown and a dedicated results page using server components.
+
+---
 
 ## 🛠 Tech Stack
 
